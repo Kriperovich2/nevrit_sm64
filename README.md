@@ -52,7 +52,8 @@ Should contain the standard Super Mario 64 texture pack structure.
 
 ### Custom Textures Folder
 Must contain these subfolders:
-/textures_folder/
+
+ 
     ├── eyes/
     │   ├── SUPER MARIO 64#5D6B0678#0#2_all.png
     │   ├── SUPER MARIO 64#6B8D43C4#0#2_all.png
